@@ -18,24 +18,24 @@ html {
 .polaroid:nth-child(1) {
   transform: rotate(-10deg);
   z-index: 1;
-  left: 13em;
-  bottom: 27em;
+  left: 12em;
+  top: 6em;
 
 }
 
 .polaroid:nth-child(3) {
-  transform: rotate(30deg);
+  transform: rotate(32deg);
   z-index: 2;
-  left: 25em;
-  bottom: 27em;
+  left: 24em;
+  top: 6.5em;
 
 }
 
 .polaroid:nth-child(2) {
   transform: rotate(5deg);
   z-index: 3;
-  left: 20em;
-  bottom: 25em;
+  left: 17em;
+  top: 10em;
 
 }
 
